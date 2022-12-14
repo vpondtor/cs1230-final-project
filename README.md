@@ -19,6 +19,8 @@ Press Q to lower the threshold value and press E to increase the threshold value
 https://www.youtube.com/watch?v=sb18Sy7xzC8
 
 ## Sources
+Primary Source: https://people.eecs.berkeley.edu/~sequin/CS285/PAPERS/Lorensen_Cline.pdf
+
 Edge Table: http://paulbourke.net/geometry/polygonise/
 
 Triangle Table http://paulbourke.net/geometry/polygonise/
