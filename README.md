@@ -12,6 +12,7 @@ This project builds upon the realtime pipeline from projects 5 & 6. It adds a ne
 - Terrain: Colors the environment based on height
 
 Threshold value starts at 0.0.
+
 Press Q to lower the threshold value and press E to increase the threshold value.
 
 ## Video
@@ -19,4 +20,5 @@ https://www.youtube.com/watch?v=sb18Sy7xzC8
 
 ## Sources
 Edge Table: http://paulbourke.net/geometry/polygonise/
+
 Triangle Table http://paulbourke.net/geometry/polygonise/
